@@ -1,0 +1,43 @@
+.mountaint-text {
+  margin-top: 0;
+  margin-bottom: 30px;
+  text-align: center;
+  margin-top: 30px;
+  font-size: 40px;
+  font-style: initial;
+}
+
+.mountaint- {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 700px;
+  height: 700px;
+  border-radius: 20px;
+  margin-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: radial-gradient(
+    circle,
+    rgba(55, 192, 181, 1) 0%,
+    rgba(34, 193, 195, 1) 0%,
+    rgba(34, 193, 195, 1) 0%,
+    rgba(253, 187, 45, 1) 100%
+  );
+}
+
+.mountaint-header {
+  font-size: 5rem;
+  font-weight: bolder;
+  font-style: initial;
+  margin-top: -50px;
+}
+
+.mountaint-body {
+  font-size: 1rem;
+  margin-left: 50px;
+  margin-right: 50px;
+  justify-content: center;
+  text-align: justify;
+}
