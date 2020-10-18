@@ -20,10 +20,11 @@ video {
     object-fit: contain;
 }
 
-.hero-container.cover {
+/* .hero-container.cover {
     /* background: url('/img/img1.jpg') center center/cover no-repeat; */
    
-}
+/* } */ 
+
 
 .hero-container > h1 {
     color: #fff ;

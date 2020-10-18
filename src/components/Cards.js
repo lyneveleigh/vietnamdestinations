@@ -11,23 +11,23 @@ function Cards() {
         {/* <div className="image">
           <img id="img" onClick="changeImage()" src="img/img1.jpg" alt="" />
         </div> */}
-        <div className ='cards_wrapper'>
+        <div className ='cards_wrapper' >
                     <ul className='cards_item'>
-                        <CardItem 
+                        <CardItem style={{flex: '1 1 15rem'}}
                         src="img/gif1.gif"
                         text ="Beaches"
                         label ="explore Vietnam"
                         path='/beaches'
                         />
 
-                        <CardItem 
+                        <CardItem style={{flex: '1 1 15rem'}}
                         src="img/gif.gif"
                         text ="Mountains"
                         label ="explore Vietnam"
                         path='/mountaint'
                         />
 
-                        <CardItem 
+                        <CardItem style={{flex: '1 1 15rem'}}
                         src="img/gita.gif"
                         text = "Street food"
                         label ="explore Vietnam"

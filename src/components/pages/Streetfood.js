@@ -7,7 +7,7 @@ import FoodCard from '../FoodCard'
 export default function Streetfood() {
     return (
     <>
-    <h1 className ="streetfood">DELIOUSE STREETFOOD</h1>
+    <h1 className ="streetfood">DELICIOUS STREETFOOD</h1>
         <div >
             <p className ='b'>Vietnam is very famous for street food. If you don't know about that, let's check it out!</p>
         </div >

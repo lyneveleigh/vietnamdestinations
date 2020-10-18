@@ -18,7 +18,7 @@
 }
 
 .mountaint {
-  background-image: url('/img/img1.jpg');
+  background-image: url('img/img1.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -27,16 +27,17 @@
 }
 
 .beaches {
-  background-image: url('/img/img2.jpg');
+  background-image: url('img/img2.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
   font-size: 100px;
+
 }
 
 .sign-up {
-  background-image: url('/img/coversignup.jpg');
+  background-image: url('img/coversignup.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -46,7 +47,7 @@
 }
 
 .streetfood {
-  background-image: url('/img/img6.jpg');
+  background-image: url('img/img6.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

@@ -8,7 +8,7 @@ function HeroSection() {
   return (
     <div className="hero-container cover">
       {/* <img src='/img/img1.jpg' style={{width: '100%', height: '100%'}}/> */}
-      <video src ="/videos/saigon.mp4" autoPlay loop muted />
+      <video src={`${process.env.PUBLIC_URL}/videos/saigon.mp4`} autoPlay loop muted />
       <h1>Vietnam Destinations</h1>
       {/* <p>Sign up and receive recommendations about Vietnam </p> */}
       <div className="hero-btns">

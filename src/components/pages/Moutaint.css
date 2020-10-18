@@ -12,12 +12,9 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 700px;
-  height: 700px;
-  border-radius: 20px;
   margin-bottom: 30px;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: -10px;
+  margin-right: 5px;
   background-image: radial-gradient(
     circle,
     rgba(55, 192, 181, 1) 0%,
@@ -36,8 +33,27 @@
 
 .mountaint-body {
   font-size: 1rem;
-  margin-left: 50px;
-  margin-right: 50px;
+  margin-left: 30px;
+  margin-right: 30px;
   justify-content: center;
   text-align: justify;
+  display: flex;
 }
+
+.mountaint{
+
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 5rem;
+
+}
+
+
+.mountaint-img{
+  padding-bottom: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
